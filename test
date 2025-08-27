@@ -414,160 +414,160 @@
         }
       ]
     },
-    {
-      "dinoType": "Blueprint'/PrimordialUnleashed//Dinos/StageOneDinos/HarvestTier/ElementiumDinos/Ankylo/ElementiumAnkylo_Character_BP.ElementiumAnkylo_Character_BP",
-      "chanceToProduce": 1,
-      "produces": [
         {
-          "intervalSeconds": 900,
-          "itemSelectMode": 0,
-          "items": [
-            {
-              "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/Berry/Elementium/PrimalItemConsumable_Elementiumberry.PrimalItemConsumable_Elementiumberry'",
-              "maxQuantityPerCycle": 0,
-              "maxQuantityInTerminal": 0,
-              "quantityPerDino": 1,
-              "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
-              "alternateItems": [],
-              "comsumesSelectMode": 0,
-              "consumesItemsChance": 1,
-              "consumesItems": [
-                {
-                  "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/BerrySeed/Elementium/PrimalItemConsumable_ElementiumberrySeed.PrimalItemConsumable_ElementiumberrySeed'",
-                  "quantityPerItem": 1,
-                  "maxQuantityPerCycle": 0,
-                  "maxQuantityInTerminal": 0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "dinoType": "Blueprint'/PrimordialUnleashed//Dinos/StageOneDinos/HarvestTier/EterniumDinos/Ankylo/EterniumAnkylo_Character_BP.EterniumAnkylo_Character_BP",
-      "chanceToProduce": 1,
-      "produces": [
+    "dinoType": "Blueprint'/PrimordialUnleashed//Dinos/StageOneDinos/HarvestTier/ElementiumDinos/Ankylo/ElementiumAnkylo_Character_BP.ElementiumAnkylo_Character_BP",
+    "chanceToProduce": 1,
+    "produces": [
         {
-          "intervalSeconds": 900,
-          "itemSelectMode": 0,
-          "items": [
+        "intervalSeconds": 900,
+        "itemSelectMode": 0,
+        "items": [
             {
-              "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/Berry/Eternium/PrimalItemConsumable_Eterniumberry.PrimalItemConsumable_Eterniumberry'",
-              "maxQuantityPerCycle": 0,
-              "maxQuantityInTerminal": 0,
-              "quantityPerDino": 1,
-              "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
-              "alternateItems": [],
-              "comsumesSelectMode": 0,
-              "consumesItemsChance": 1,
-              "consumesItems": [
+            "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/Berry/Elementium/PrimalItemConsumable_Elementiumberry.PrimalItemConsumable_Elementiumberry'",
+            "maxQuantityPerCycle": 0,
+            "maxQuantityInTerminal": 0,
+            "quantityPerDino": 1,
+            "alternateSelectMode": 0,
+            "alternateItemsChance": 0,
+            "alternateItems": [],
+            "comsumesSelectMode": 0,
+            "consumesItemsChance": 1,
+            "consumesItems": [
                 {
-                  "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/BerrySeed/Eternium/PrimalItemConsumable_EterniumberrySeed.PrimalItemConsumable_EterniumberrySeed'",
-                  "quantityPerItem": 1,
-                  "maxQuantityPerCycle": 0,
-                  "maxQuantityInTerminal": 0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
+                "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/BerrySeed/Elementium/PrimalItemConsumable_ElementiumberrySeed.PrimalItemConsumable_ElementiumberrySeed'",
+                "quantityPerItem": 1,
+                "maxQuantityPerCycle": 0,
+                "maxQuantityInTerminal": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
     {
-      "dinoType": "Blueprint'/PrimordialUnleashed//Dinos/StageOneDinos/HarvestTier/MithrilDinos/Ankylo/MithrilAnkylo_Character_BP.MithrilAnkylo_Character_BP",
-      "chanceToProduce": 1,
-      "produces": [
+    "dinoType": "Blueprint'/PrimordialUnleashed//Dinos/StageOneDinos/HarvestTier/EterniumDinos/Ankylo/EterniumAnkylo_Character_BP.EterniumAnkylo_Character_BP",
+    "chanceToProduce": 1,
+    "produces": [
         {
-          "intervalSeconds": 900,
-          "itemSelectMode": 0,
-          "items": [
+        "intervalSeconds": 900,
+        "itemSelectMode": 0,
+        "items": [
             {
-              "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/Berry/Mithril/PrimalItemConsumable_Mithrilberry.PrimalItemConsumable_Mithrilberry'",
-              "maxQuantityPerCycle": 0,
-              "maxQuantityInTerminal": 0,
-              "quantityPerDino": 1,
-              "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
-              "alternateItems": [],
-              "comsumesSelectMode": 0,
-              "consumesItemsChance": 1,
-              "consumesItems": [
+            "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/Berry/Eternium/PrimalItemConsumable_Eterniumberry.PrimalItemConsumable_Eterniumberry'",
+            "maxQuantityPerCycle": 0,
+            "maxQuantityInTerminal": 0,
+            "quantityPerDino": 1,
+            "alternateSelectMode": 0,
+            "alternateItemsChance": 0,
+            "alternateItems": [],
+            "comsumesSelectMode": 0,
+            "consumesItemsChance": 1,
+            "consumesItems": [
                 {
-                  "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/BerrySeed/Mithril/PrimalItemConsumable_MithrilberrySeed.PrimalItemConsumable_MithrilberrySeed'",
-                  "quantityPerItem": 1,
-                  "maxQuantityPerCycle": 0,
-                  "maxQuantityInTerminal": 0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
+                "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/BerrySeed/Eternium/PrimalItemConsumable_EterniumberrySeed.PrimalItemConsumable_EterniumberrySeed'",
+                "quantityPerItem": 1,
+                "maxQuantityPerCycle": 0,
+                "maxQuantityInTerminal": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
     {
-      "dinoType": "Blueprint'/PrimordialUnleashed//Dinos/StageOneDinos/HarvestTier/UnobtaniumDinos/Ankylo/UnobtaniumAnkylo_Character_BP.UnobtaniumAnkylo_Character_BP",
-      "chanceToProduce": 1,
-      "produces": [
+    "dinoType": "Blueprint'/PrimordialUnleashed//Dinos/StageOneDinos/HarvestTier/MithrilDinos/Ankylo/MithrilAnkylo_Character_BP.MithrilAnkylo_Character_BP",
+    "chanceToProduce": 1,
+    "produces": [
         {
-          "intervalSeconds": 900,
-          "itemSelectMode": 0,
-          "items": [
+        "intervalSeconds": 900,
+        "itemSelectMode": 0,
+        "items": [
             {
-              "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/Berry/Unobtanium/PrimalItemConsumable_Unobtaniumberry.PrimalItemConsumable_Unobtaniumberry'",
-              "maxQuantityPerCycle": 0,
-              "maxQuantityInTerminal": 0,
-              "quantityPerDino": 1,
-              "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
-              "alternateItems": [],
-              "comsumesSelectMode": 0,
-              "consumesItemsChance": 1,
-              "consumesItems": [
+            "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/Berry/Mithril/PrimalItemConsumable_Mithrilberry.PrimalItemConsumable_Mithrilberry'",
+            "maxQuantityPerCycle": 0,
+            "maxQuantityInTerminal": 0,
+            "quantityPerDino": 1,
+            "alternateSelectMode": 0,
+            "alternateItemsChance": 0,
+            "alternateItems": [],
+            "comsumesSelectMode": 0,
+            "consumesItemsChance": 1,
+            "consumesItems": [
                 {
-                  "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/BerrySeed/Unobtanium/PrimalItemConsumable_UnobtaniumberrySeed.PrimalItemConsumable_UnobtaniumberrySeed'",
-                  "quantityPerItem": 1,
-                  "maxQuantityPerCycle": 0,
-                  "maxQuantityInTerminal": 0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
+                "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/BerrySeed/Mithril/PrimalItemConsumable_MithrilberrySeed.PrimalItemConsumable_MithrilberrySeed'",
+                "quantityPerItem": 1,
+                "maxQuantityPerCycle": 0,
+                "maxQuantityInTerminal": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
     {
-      "dinoType": "Blueprint'/PrimordialUnleashed//Dinos/StageOneDinos/HarvestTier/VoidDinos/Ankylo/VoidAnkylo_Character_BP.VoidAnkylo_Character_BP",
-      "chanceToProduce": 1,
-      "produces": [
+    "dinoType": "Blueprint'/PrimordialUnleashed//Dinos/StageOneDinos/HarvestTier/UnobtaniumDinos/Ankylo/UnobtaniumAnkylo_Character_BP.UnobtaniumAnkylo_Character_BP",
+    "chanceToProduce": 1,
+    "produces": [
         {
-          "intervalSeconds": 900,
-          "itemSelectMode": 0,
-          "items": [
+        "intervalSeconds": 900,
+        "itemSelectMode": 0,
+        "items": [
             {
-              "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/Berry/Void/PrimalItemConsumable_Voidberry.PrimalItemConsumable_Voidberry'",
-              "maxQuantityPerCycle": 0,
-              "maxQuantityInTerminal": 0,
-              "quantityPerDino": 1,
-              "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
-              "alternateItems": [],
-              "comsumesSelectMode": 0,
-              "consumesItemsChance": 1,
-              "consumesItems": [
+            "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/Berry/Unobtanium/PrimalItemConsumable_Unobtaniumberry.PrimalItemConsumable_Unobtaniumberry'",
+            "maxQuantityPerCycle": 0,
+            "maxQuantityInTerminal": 0,
+            "quantityPerDino": 1,
+            "alternateSelectMode": 0,
+            "alternateItemsChance": 0,
+            "alternateItems": [],
+            "comsumesSelectMode": 0,
+            "consumesItemsChance": 1,
+            "consumesItems": [
                 {
-                  "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/BerrySeed/Void/PrimalItemConsumable_VoidberrySeed.PrimalItemConsumable_VoidberrySeed'",
-                  "quantityPerItem": 1,
-                  "maxQuantityPerCycle": 0,
-                  "maxQuantityInTerminal": 0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
+                "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/BerrySeed/Unobtanium/PrimalItemConsumable_UnobtaniumberrySeed.PrimalItemConsumable_UnobtaniumberrySeed'",
+                "quantityPerItem": 1,
+                "maxQuantityPerCycle": 0,
+                "maxQuantityInTerminal": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "dinoType": "Blueprint'/PrimordialUnleashed//Dinos/StageOneDinos/HarvestTier/VoidDinos/Ankylo/VoidAnkylo_Character_BP.VoidAnkylo_Character_BP",
+    "chanceToProduce": 1,
+    "produces": [
+        {
+        "intervalSeconds": 900,
+        "itemSelectMode": 0,
+        "items": [
+            {
+            "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/Berry/Void/PrimalItemConsumable_Voidberry.PrimalItemConsumable_Voidberry'",
+            "maxQuantityPerCycle": 0,
+            "maxQuantityInTerminal": 0,
+            "quantityPerDino": 1,
+            "alternateSelectMode": 0,
+            "alternateItemsChance": 0,
+            "alternateItems": [],
+            "comsumesSelectMode": 0,
+            "consumesItemsChance": 1,
+            "consumesItems": [
+                {
+                "bpPath": "Blueprint'/PrimordialUnleashed/StageOneResources/BerrySeed/Void/PrimalItemConsumable_VoidberrySeed.PrimalItemConsumable_VoidberrySeed'",
+                "quantityPerItem": 1,
+                "maxQuantityPerCycle": 0,
+                "maxQuantityInTerminal": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
   ]
 }
